@@ -15,6 +15,6 @@ Lav en _printInfo()_ metode til klasserne.
 
 Lav constructors, så klasserne kan initialiseres.
 
-Lav set metoder, så attributterne bliver encapsuleret.
+Lav set metoder, så attributterne bliver indkapslet.
 
 ## Ændr forhandler aplikationen, så I brug set’tere og constructere
