@@ -1,4 +1,4 @@
-# 08_constructur_og_set_method
+# 08_constructor_og_set_method
 Scope
 
 Settere
